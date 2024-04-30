@@ -1,9 +1,4 @@
 # Computer Vision Project: - Image Blending
-### Authors: 
-- Tarun Raj Singh (B21CS076)
-- Shalin Jain (B21CS070)
-- Shashwat Roy (B21CS071)
-- Diya Fursule (B21CS026)
 
 ### Introduction
 - Image blending is a technique used to combine two images into a single image.
